@@ -1,3 +1,3 @@
 # html_skillcheck
 
-licensed unedr IU
+licensed under IU
